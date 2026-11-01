@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="WeiLiang — AI Application Developer & Builder" width="100%" />
+  <img src="./assets/profile-hero.svg" alt="微凉 — AI Application Developer & Builder" width="100%" />
 </p>
 
-<h1 align="center">你好，我是 WeiLiang 👋</h1>
+<h1 align="center">你好，我是微凉 👋</h1>
 
 <h3 align="center">我做的不是“跑一次的 Demo”，而是有人工确认、有规则兜底、可验证的 AI 应用。</h3>
 

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="WeiLiang — AI Application Developer and Builder">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="微凉 — AI Application Developer and Builder">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#101318"/>
@@ -14,7 +14,7 @@
     <line x1="600" y1="0" x2="600" y2="280"/>
     <line x1="900" y1="0" x2="900" y2="280"/>
   </g>
-  <text x="600" y="118" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="58" font-weight="700" fill="#F5F4F0" letter-spacing="6">WEILIANG</text>
-  <text x="600" y="166" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="19" fill="#5B8DEF" letter-spacing="4">AI APPLICATION DEVELOPER &amp; BUILDER</text>
-  <text x="600" y="226" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#9AA3AD">让 AI 真正跑在业务里：会确认 · 会兜底 · 可验证</text>
+  <text x="600" y="122" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="92" font-weight="700" fill="#F5F4F0" letter-spacing="24">微凉</text>
+  <text x="600" y="176" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="18" fill="#5B8DEF" letter-spacing="5">WEILIANG — AI APPLICATION DEVELOPER &amp; BUILDER</text>
+  <text x="600" y="230" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#9AA3AD">让 AI 真正跑在业务里：会确认 · 会兜底 · 可验证</text>
 </svg>
