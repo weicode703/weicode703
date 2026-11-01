@@ -2,6 +2,12 @@
   <img src="./assets/profile-hero.svg" alt="微凉 — AI Application Developer & Builder" width="100%" />
 </p>
 
+<p align="center">
+  <strong>简体中文</strong>
+  ·
+  <a href="./README.en.md">English</a>
+</p>
+
 <h1 align="center">你好，我是微凉 👋</h1>
 
 <h3 align="center">我做的不是“跑一次的 Demo”，而是有人工确认、有规则兜底、可验证的 AI 应用。</h3>
